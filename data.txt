@@ -1,0 +1,9 @@
+Bread,Butter,Jam
+Butter,Coke
+Butter,Milk
+Bread,Butter,Coke
+Bread,Milk
+Butter,Milk
+Bread,Milk
+Bread,Butter,Milk,Jam
+Bread,Butter,Milk
